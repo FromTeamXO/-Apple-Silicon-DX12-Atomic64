@@ -3,6 +3,14 @@
 An experimental DirectX 12 translation-layer extension and compatibility patch designed to enable unsupported modern Windows DirectX 12 games (specifically Capcom's RE Engine titles including **Resident Evil Requiem / Resident Evil 9** and **PRAGMATA**) to run on Apple Silicon M1 Max GPUs through CrossOver and D3DMetal.
 
 ---
+## Screenshots
+<img width="1683" height="1055" alt="Screenshot 2026-11-01 at 1 08 04 PM" src="https://github.com/user-attachments/assets/c45ecb72-3474-484c-801c-7266244bed98" />
+<img width="1705" height="1081" alt="Screenshot 2026-11-01 at 1 07 43 PM" src="https://github.com/user-attachments/assets/b8b3b182-6f13-4bd8-8a86-376719eb04a2" />
+<img width="1746" height="1082" alt="Screenshot 2026-11-01 at 1 07 24 PM" src="https://github.com/user-attachments/assets/9cc306a9-595a-4e56-a3e7-5b848c7acc76" />
+<img width="1734" height="1015" alt="Screenshot 2026-11-01 at 1 07 00 PM" src="https://github.com/user-attachments/assets/3959e38c-e134-499b-9190-9b0a6351df2c" />
+
+
+
 
 ## 🤖 1. Autonomous AI Agent Installation (Claude, Antigravity, Cursor)
 
